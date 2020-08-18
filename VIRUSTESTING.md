@@ -4,6 +4,7 @@
 
 Most antivirus software **does not** detect this program as a virus.
 This program is **NOT** a virus in any way!
+The **bold** antivirus programs are popular programs that you may have on your PC.
 
 #### If a program that you use is not on the list, please email me: xjulek123@gmail.com
 
