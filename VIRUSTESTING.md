@@ -85,5 +85,5 @@ This program is **NOT** a virus in any way!
 | Emsisoft   |  :heavy_minus_sign:              |
 | McAfee-GW-Edition   |  :heavy_minus_sign:               |
 
-#Test it if you want :) 
-##https://www.virustotal.com/gui/file/7fcec7ef8828d560393656517d73687de324b80250a20403e14290c899132f5f/detection
+# Test it if you want :) 
+## https://www.virustotal.com/gui/file/7fcec7ef8828d560393656517d73687de324b80250a20403e14290c899132f5f/detection
