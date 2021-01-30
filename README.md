@@ -4,7 +4,7 @@ A fake updater for windows. Excellent prank for elderly people
 
 ## 3 Antivirus programs detected this program as a virus, but do not worry!
 
-Most antivirus software **does not** detect this program as a virus.
+Most antivirus programs **do not** detect this program as a virus.
 This program is **NOT** a virus in any way!
 The **bold** antivirus programs are popular programs that you may have on your PC.
 
